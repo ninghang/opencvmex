@@ -1,4 +1,4 @@
-MATLABDIR   ?= /usr/local/matlab
+MATLABDIR   ?= /usr/local/MATLAB/R2012a
 MEX         ?= $(MATLABDIR)/bin/mex
 MV          ?= mv
 AR          ?= ar

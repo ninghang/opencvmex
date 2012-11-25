@@ -5,6 +5,7 @@
  * @date 2012
  */
 #include "mexopencv.hpp"
+#include "typeinfo"
 #include "opencv2/nonfree/nonfree.hpp"
 using namespace std;
 using namespace cv;
